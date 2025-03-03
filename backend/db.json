@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "text": "Daniel Wesley",
+      "style": "cursive",
+      "thickness": 2
+    },
+    {
+      "id": 2,
+      "text": "Daniel Wesley",
+      "style": "traditional",
+      "thickness": 2
+    },
+    {
+      "id": 3,
+      "text": "Daniel Wesley",
+      "style": "traditional",
+      "thickness": "11"
+    }
+  ]
+}
